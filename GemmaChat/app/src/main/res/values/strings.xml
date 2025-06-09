@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GemmaChat</string>
+    <string name="chat_hint">Écrivez votre message…</string>
+    <string name="send">Envoyer</string>
+    <string name="clear_chat">Effacer la conversation</string>
+    <string name="settings">Paramètres</string>
+    <string name="about">À propos</string>
+    <string name="theme">Thème</string>
+    <string name="language">Langue</string>
+    <string name="notifications">Notifications</string>
+    <string name="enable_notifications">Activer les notifications</string>
+    <string name="notification_description">Recevez une notification quand Gemma répond</string>
+    <string name="history">Historique</string>
+    <string name="clear_history">Effacer l\'historique</string>
+    <string name="clear_history_confirm">Êtes-vous sûr de vouloir effacer tout l\'historique ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="cancel">Annuler</string>
+    <string name="loading_model">Chargement du modèle…</string>
+    <string name="model_loaded">Modèle chargé</string>
+    <string name="error_loading_model">Erreur lors du chargement du modèle</string>
+    <string name="typing">En train d\'écrire…</string>
+    <string name="copy">Copier</string>
+    <string name="copied">Copié dans le presse-papiers</string>
+    <string name="retry">Réessayer</string>
+    <string name="welcome_message">Bonjour ! Je suis Gemma, votre assistant IA local. Comment puis-je vous aider ?</string>
+    <string name="new_chat">Nouvelle conversation</string>
+    <string name="theme_system">Système</string>
+    <string name="theme_light">Clair</string>
+    <string name="theme_dark">Sombre</string>
+    <string name="language_french">Français</string>
+    <string name="language_english">English</string>
+</resources>
